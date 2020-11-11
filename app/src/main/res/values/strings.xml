@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Animation</string>
+    <string name="robot_that_greets_you">robot that greets you</string>
+    <string name="Hello_user">Привет, Юзер!</string>
+</resources>

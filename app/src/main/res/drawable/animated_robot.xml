@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/ic_robot">
+
+    <target
+        android:animation="@animator/wave_a_hand"
+        android:name="wave_a_hand"/>
+
+    <target
+        android:animation="@animator/say_hello"
+        android:name="greetings"/>
+
+</animated-vector>
